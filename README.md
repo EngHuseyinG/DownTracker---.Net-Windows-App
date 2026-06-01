@@ -4,6 +4,9 @@ DownTracker, Kepware ve endüstriyel otomasyon sistemlerinden (PLC/SCADA) gelen 
 
 Proje, geleneksel hantal masaüstü arayüzlerini yıkarak, tamamen **Pure Code-Behind** ile inşa edilmiş dinamik kart listeleri ve senkronize GDI+ zaman çizelgesi (Timeline Canvas) ile modern bir SCADA/Grafana deneyimi sunar.
 
+<img width="1562" height="1033" alt="Ekran görüntüsü 2026-06-01 092721" src="https://github.com/user-attachments/assets/1dc8db1f-2461-46ca-ab9c-2c9f8b152c6d" />
+
+
 ---
 
 ## 🏗️ 1. Öne Çıkan Özellikler & UI/UX Mimarisi
@@ -36,3 +39,5 @@ DownTrackerApp/
 ├── ViewModels/      # Filtreleme, SQL sorgu motoru ve katı analiz algoritmaları
 ├── Views/           # Ana Ekran ve GDI+ Çizimli FormDowntimeInfo Detay Formu
 └── Config/          # Proje anayasası ve agent_guidelines geliştirici kılavuzu
+
+
