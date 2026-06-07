@@ -9,7 +9,10 @@ DownTracker, endüstriyel üretim hatlarındaki (örneğin robotik kaynak, monta
 
 Spagetti kod yığınlarından tamamen arındırılarak **modern MVVM (Model-View-ViewModel) mimarisiyle** sıfırdan refaktör edilmiş ve Windows işletim sisteminin tema kısıtlamalarını aşan **%100 Saf C# ve GDI+ dinamik arayüz standartlarıyla** donatılmıştır.
 
+<img width="1913" height="1031" alt="Ekran görüntüsü 2026-06-07 180036" src="https://github.com/user-attachments/assets/b4f5ccfa-157a-4bb7-89d4-d8e6b6085c74" />
+
 ---
+
 
 ## 📸 Temel Ekranlar ve Fonksiyonlar
 
